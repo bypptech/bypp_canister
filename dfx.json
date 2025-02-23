@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "bypp_canister_backend": {
+      "main": "src/bypp_canister_backend/main.mo",
+      "type": "motoko"
+    },
+    "bypp_canister_frontend": {
+      "dependencies": [
+        "bypp_canister_backend"
+      ],
+      "source": [
+        "src/bypp_canister_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "bypp_canister_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
