@@ -366,7 +366,7 @@ charlie
 
 <img width="1680" alt="Image" src="https://github.com/user-attachments/assets/d652bee8-be9a-41d9-8086-369dcae3e26f" />
 
-## ii-5. 【 Playground環境 】作成したCanisterのデプロイ
+### ii-5. 【 Playground環境 】作成したCanisterのデプロイ
 
 **identityを指定し、Canisterを「Playground」環境にデプロイ** します。
 
@@ -381,9 +381,9 @@ dfx deploy --identity bypp-canister --playground
 ```
 
 📝 【Playground環境】について
-
 - `--playground` は、**開発用の環境** のため20分で利用できなくなる
 - Playground環境 を利用するとEVMのガス代にあたる `cycles` トークンを消費せずにテストできる
+
 
 【 Playground環境 】へのデプロイが完了すると、Frontend用とBackend用のURLが生成されます。
 ブラウザで画面を確認すると、URLが見つかります。
@@ -392,7 +392,7 @@ dfx deploy --identity bypp-canister --playground
 
 ---
 
-# iii. 🎉【Playground環境】デプロイ完了
+# iii. 🚀【Playground環境】デプロイ完了
 
 
 生成されたFrontend 用と Backend用のURLを開くと、【Playground環境】のサンプルキャニスターにアクセスできます。見た目と機能は【 local環境 】と同じものです。
@@ -412,5 +412,6 @@ dfx deploy --identity bypp-canister --playground
 🖥️ テキストボックスに入力し`Query` をクリックした状態
 
 <img width="1680" alt="Image" src="https://github.com/user-attachments/assets/a15e65ab-1841-4606-9fa4-421e8bcfc41d" />
+
 
 
