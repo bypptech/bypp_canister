@@ -345,7 +345,7 @@ charlie
 【 local環境 】へのデプロイが完了すると、Frontend用とBackend用のURLが生成されます。
 ブラウザで画面を確認すると、URLが見つかります。
 
-![image.png](attachment:49734bff-c64c-416b-aba9-75b69fb0cfd6:image.png)
+<img width="1203" alt="Image" src="https://github.com/user-attachments/assets/87b1dde8-4229-49e7-9471-3e17394a9f37" />
 
 ### 【 local環境 】 Frontend
 
@@ -354,7 +354,7 @@ charlie
 
 🖥️ Enter your name:に入力し`Click Me!` をクリックした状態
 
-![image.png](attachment:2fee5317-29d8-4cc6-b500-c88036b33438:image.png)
+<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/74e73548-850b-4ec3-a979-28d0ce2e653d" />
 
 ### 【 local環境 】 Backend
 
@@ -364,7 +364,7 @@ charlie
 
 🖥️ テキストボックスに入力し`Query` をクリックした状態
 
-![image.png](attachment:1b1bfe1f-aadb-4746-ab08-a9d195608e08:image.png)
+<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/d652bee8-be9a-41d9-8086-369dcae3e26f" />
 
 ## ii-5. 【 Playground環境 】作成したCanisterのデプロイ
 
@@ -388,7 +388,7 @@ dfx deploy --identity bypp-canister --playground
 【 Playground環境 】へのデプロイが完了すると、Frontend用とBackend用のURLが生成されます。
 ブラウザで画面を確認すると、URLが見つかります。
 
-![image.png](attachment:f6d29990-ca71-48e8-85c9-892d87c931d2:image.png)
+<img width="1203" alt="Image" src="https://github.com/user-attachments/assets/65d6dc60-3266-4549-87ba-d9009f740851" />
 
 ---
 
@@ -403,7 +403,7 @@ dfx deploy --identity bypp-canister --playground
 
 🖥️ Enter your name:に入力し`Click Me!` をクリックした状態
 
-![image.png](attachment:73d757ec-ff76-4fce-a558-b97d4eb67ccf:image.png)
+<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/dde1a4d2-4643-4186-8474-e256e6cbc31a" />
 
 ### 【 Playground環境 】Backend
 
