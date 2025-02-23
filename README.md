@@ -411,6 +411,6 @@ dfx deploy --identity bypp-canister --playground
 
 🖥️ テキストボックスに入力し`Query` をクリックした状態
 
-![image.png](attachment:0e023cc6-440e-4780-ba78-e559c3824dee:image.png)
+<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/a15e65ab-1841-4606-9fa4-421e8bcfc41d" />
 
 
