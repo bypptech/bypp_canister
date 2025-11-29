@@ -161,7 +161,7 @@ Proceed with installation?:
 インストールした `dfx` をターミナルから利用できるようにするため、PATHを設定します。
 
 ```
-echo 'export PATH=$HOME/bin:$PATH' >> ~/.zshrc
+echo 'export PATH="$HOME/Library/Application Support/org.dfinity.dfx/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
